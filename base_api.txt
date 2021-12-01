@@ -1,0 +1,1694 @@
+[
+ {
+  "nome": "Teste de audio",
+  "descricao": "Teste realizado com o audio em MP3",
+  "tipo": "ogg",
+  "arquivo": "https://github.com/faellouress/arquivosbase/blob/main/MP3%20audio.mp3",
+  "video": "https://www.youtube.com/embed/ugyOc0WzLzo",
+  "imagem": "https://github.com/faellouress/arquivosbase/blob/main/QA%20Imagem.jpg",
+  "categoria": "Teste",
+  "ultimaAtualizacao": "2009-01-24T03:42:44.395Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "1",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Teste de audio",
+  "descricao": "Teste realizado com o audio em OGG",
+  "tipo": "ogg",
+  "arquivo": "https://github.com/faellouress/arquivosbase/blob/main/OGG%20audio.ogg",
+  "video": "https://www.youtube.com/embed/ugyOc0WzLzo",
+  "imagem": "https://github.com/faellouress/arquivosbase/blob/main/QA%20Imagem.jpg",
+  "categoria": "Teste",
+  "ultimaAtualizacao": "2009-01-24T03:42:44.395Z",
+  "classificacao": 4,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "2",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Handmade Metal Pizza",
+  "descricao": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "tipo": "video",
+  "arquivo": "",
+  "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1920_18MG.mp4",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Computers",
+  "ultimaAtualizacao": "2078-10-19T20:08:56.109Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "3",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Incredible Fresh Fish",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "docx",
+  "arquivo": "https://file-examples-com.github.io/uploads/2017/02/file-sample_1MB.docx",
+  "video": "",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2069-06-18T19:18:45.385Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "4",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Sleek Plastic Shoes",
+  "descricao": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Outdoors",
+  "ultimaAtualizacao": "2007-09-09T04:51:29.456Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "5",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Unbranded Steel Mouse",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Grocery",
+  "ultimaAtualizacao": "2029-06-29T20:10:05.070Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "6",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Generic Cotton Chips",
+  "descricao": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2061-06-30T17:02:27.358Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "7",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Incredible Soft Fish",
+  "descricao": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Outdoors",
+  "ultimaAtualizacao": "1993-11-30T18:41:44.035Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "8",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Practical Granite Chips",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Industrial",
+  "ultimaAtualizacao": "2065-06-06T09:29:30.751Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "9",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Refined Fresh Hat",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Kids",
+  "ultimaAtualizacao": "2055-10-22T06:17:40.111Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "10",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Licensed Concrete Salad",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Kids",
+  "ultimaAtualizacao": "2093-03-22T14:15:31.593Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "11",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Small Fresh Towels",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Baby",
+  "ultimaAtualizacao": "2079-07-08T16:06:18.456Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "12",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Sleek Fresh Mouse",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Garden",
+  "ultimaAtualizacao": "2080-11-29T01:12:15.976Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "13",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Fantastic Plastic Bacon",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Garden",
+  "ultimaAtualizacao": "2091-12-13T12:04:46.457Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "14",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Handcrafted Cotton Ball",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2068-04-01T03:55:57.396Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "15",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Practical Cotton Towels",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Industrial",
+  "ultimaAtualizacao": "2006-01-15T13:46:38.735Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "16",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Rustic Plastic Tuna",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Sports",
+  "ultimaAtualizacao": "2050-02-07T13:45:17.947Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "17",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Ergonomic Metal Gloves",
+  "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Garden",
+  "ultimaAtualizacao": "1997-07-05T00:54:30.814Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "18",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Small Concrete Chips",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Kids",
+  "ultimaAtualizacao": "2088-09-29T05:53:07.147Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "19",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Practical Concrete Car",
+  "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Music",
+  "ultimaAtualizacao": "2051-07-31T17:05:20.826Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "20",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Unbranded Steel Bacon",
+  "descricao": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Clothing",
+  "ultimaAtualizacao": "2079-03-02T14:32:23.170Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "21",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Licensed Plastic Bike",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Books",
+  "ultimaAtualizacao": "2017-05-30T02:39:14.922Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "22",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Sleek Soft Mouse",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Music",
+  "ultimaAtualizacao": "2022-03-23T05:49:40.277Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "23",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Gorgeous Fresh Keyboard",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Home",
+  "ultimaAtualizacao": "2027-06-10T03:07:39.851Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "24",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Fantastic Cotton Chicken",
+  "descricao": "New ABN 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Movies",
+  "ultimaAtualizacao": "2092-11-09T01:49:54.250Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "25",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Handmade Cotton Pizza",
+  "descricao": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Beauty",
+  "ultimaAtualizacao": "2030-10-14T23:37:26.615Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "26",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Intelligent Plastic Salad",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Industrial",
+  "ultimaAtualizacao": "2056-08-15T14:34:21.639Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "27",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Handmade Concrete Fish",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2037-11-02T18:23:24.433Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "28",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Unbranded Plastic Keyboard",
+  "descricao": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Books",
+  "ultimaAtualizacao": "2063-02-18T23:59:21.427Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "29",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Practical Fresh Bike",
+  "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Tools",
+  "ultimaAtualizacao": "1992-08-30T20:32:08.436Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "30",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Incredible Soft Computer",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Tools",
+  "ultimaAtualizacao": "2012-01-07T22:03:07.314Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "31",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Fantastic Cotton Shirt",
+  "descricao": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Books",
+  "ultimaAtualizacao": "2083-05-20T13:01:52.704Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "32",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Unbranded Frozen Soap",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "1997-05-31T17:38:43.142Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "33",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Practical Rubber Gloves",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Baby",
+  "ultimaAtualizacao": "2089-08-06T09:52:28.463Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "34",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Awesome Frozen Table",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2089-08-29T11:20:12.156Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "35",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Generic Granite Ball",
+  "descricao": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Beauty",
+  "ultimaAtualizacao": "1993-04-27T10:55:45.573Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "36",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Rustic Metal Shirt",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Games",
+  "ultimaAtualizacao": "2021-02-09T14:24:40.257Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "37",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Practical Soft Salad",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Grocery",
+  "ultimaAtualizacao": "2050-06-25T21:23:03.046Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "38",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Incredible Steel Pizza",
+  "descricao": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Automotive",
+  "ultimaAtualizacao": "2044-03-26T19:50:07.528Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "39",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Sleek Steel Car",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Garden",
+  "ultimaAtualizacao": "2012-01-06T08:42:20.188Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "40",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Practical Soft Fish",
+  "descricao": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Automotive",
+  "ultimaAtualizacao": "2084-06-09T20:25:53.841Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "41",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Refined Steel Towels",
+  "descricao": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Tools",
+  "ultimaAtualizacao": "2051-07-01T18:37:45.139Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "42",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Practical Frozen Cheese",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Jewelery",
+  "ultimaAtualizacao": "2023-06-15T12:53:04.758Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "43",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Awesome Steel Shoes",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Computers",
+  "ultimaAtualizacao": "2097-05-06T11:41:22.646Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "44",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Sleek Granite Ball",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Baby",
+  "ultimaAtualizacao": "2009-09-22T12:09:48.100Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "45",
+  "categoriaId": "5"
+ },
+ {
+  "nome": "Incredible Rubber Ball",
+  "descricao": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Movies",
+  "ultimaAtualizacao": "2056-05-08T13:04:57.353Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "46",
+  "categoriaId": "6"
+ },
+ {
+  "nome": "Incredible Rubber Fish",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Clothing",
+  "ultimaAtualizacao": "2085-11-19T01:37:56.088Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "47",
+  "categoriaId": "7"
+ },
+ {
+  "nome": "Sleek Rubber Pants",
+  "descricao": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Toys",
+  "ultimaAtualizacao": "2098-03-15T21:33:02.790Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "48",
+  "categoriaId": "8"
+ },
+ {
+  "nome": "Handcrafted Concrete Towels",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Toys",
+  "ultimaAtualizacao": "2080-05-19T11:30:02.453Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "49",
+  "categoriaId": "9"
+ },
+ {
+  "nome": "Incredible Rubber Car",
+  "descricao": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Tools",
+  "ultimaAtualizacao": "2077-08-17T17:54:22.443Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "50",
+  "categoriaId": "10"
+ },
+ {
+  "nome": "Rustic Plastic Salad",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Garden",
+  "ultimaAtualizacao": "2010-03-25T09:04:53.919Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "51",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Ergonomic Soft Computer",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Music",
+  "ultimaAtualizacao": "2007-02-08T21:12:52.942Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "52",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Ergonomic Metal Shoes",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Computers",
+  "ultimaAtualizacao": "2071-11-27T05:51:37.798Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "53",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Rustic Plastic Chips",
+  "descricao": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Home",
+  "ultimaAtualizacao": "2095-12-17T17:08:54.857Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "54",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Handmade Wooden Shirt",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Movies",
+  "ultimaAtualizacao": "2074-06-19T16:35:45.900Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "55",
+  "categoriaId": "5"
+ },
+ {
+  "nome": "Ergonomic Concrete Table",
+  "descricao": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Beauty",
+  "ultimaAtualizacao": "2046-06-17T10:59:06.387Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "56",
+  "categoriaId": "6"
+ },
+ {
+  "nome": "Tasty Steel Ball",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Jewelery",
+  "ultimaAtualizacao": "1993-06-05T02:09:24.976Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "57",
+  "categoriaId": "7"
+ },
+ {
+  "nome": "Licensed Rubber Mouse",
+  "descricao": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Jewelery",
+  "ultimaAtualizacao": "2088-11-02T04:02:57.234Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "58",
+  "categoriaId": "8"
+ },
+ {
+  "nome": "Refined Wooden Shoes",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Automotive",
+  "ultimaAtualizacao": "1997-03-16T20:54:48.106Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "59",
+  "categoriaId": "9"
+ },
+ {
+  "nome": "Fantastic Concrete Hat",
+  "descricao": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Games",
+  "ultimaAtualizacao": "2054-08-22T08:26:33.465Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "60",
+  "categoriaId": "10"
+ },
+ {
+  "nome": "Tasty Wooden Tuna",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Computers",
+  "ultimaAtualizacao": "2036-02-21T11:14:26.876Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "61",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Sleek Plastic Pizza",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Shoes",
+  "ultimaAtualizacao": "2061-11-20T01:29:17.642Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "62",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Unbranded Wooden Keyboard",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Electronics",
+  "ultimaAtualizacao": "2099-04-02T09:26:26.899Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "63",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Incredible Soft Hat",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Music",
+  "ultimaAtualizacao": "2092-04-15T13:09:36.990Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "64",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Intelligent Cotton Shirt",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Shoes",
+  "ultimaAtualizacao": "2076-01-16T08:00:31.053Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "65",
+  "categoriaId": "5"
+ },
+ {
+  "nome": "Small Soft Pants",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Jewelery",
+  "ultimaAtualizacao": "2026-12-15T07:13:23.673Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "66",
+  "categoriaId": "6"
+ },
+ {
+  "nome": "Refined Concrete Salad",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Grocery",
+  "ultimaAtualizacao": "2001-08-16T19:34:28.086Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "67",
+  "categoriaId": "7"
+ },
+ {
+  "nome": "Fantastic Frozen Chips",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2035-05-20T03:17:58.523Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "68",
+  "categoriaId": "8"
+ },
+ {
+  "nome": "Rustic Soft Towels",
+  "descricao": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Beauty",
+  "ultimaAtualizacao": "2099-02-21T11:36:56.009Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "69",
+  "categoriaId": "9"
+ },
+ {
+  "nome": "Intelligent Frozen Pants",
+  "descricao": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Sports",
+  "ultimaAtualizacao": "2034-02-17T12:52:54.460Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "70",
+  "categoriaId": "10"
+ },
+ {
+  "nome": "Tasty Wooden Chair",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Electronics",
+  "ultimaAtualizacao": "2016-01-21T21:05:36.197Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "71",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Sleek Steel Car",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Clothing",
+  "ultimaAtualizacao": "1993-04-18T04:14:54.398Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "72",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Sleek Wooden Shoes",
+  "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Jewelery",
+  "ultimaAtualizacao": "2051-09-17T18:23:46.875Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "73",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Handmade Rubber Fish",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Home",
+  "ultimaAtualizacao": "2046-11-03T14:25:11.351Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "74",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Small Rubber Sausages",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Tools",
+  "ultimaAtualizacao": "1992-05-01T11:32:15.790Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "75",
+  "categoriaId": "5"
+ },
+ {
+  "nome": "Unbranded Soft Ball",
+  "descricao": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Toys",
+  "ultimaAtualizacao": "2035-04-06T16:31:40.174Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "76",
+  "categoriaId": "6"
+ },
+ {
+  "nome": "Sleek Soft Car",
+  "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Beauty",
+  "ultimaAtualizacao": "2081-04-03T23:24:38.632Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "77",
+  "categoriaId": "7"
+ },
+ {
+  "nome": "Ergonomic Fresh Table",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Kids",
+  "ultimaAtualizacao": "2009-11-28T11:27:13.655Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "78",
+  "categoriaId": "8"
+ },
+ {
+  "nome": "Rustic Steel Keyboard",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Toys",
+  "ultimaAtualizacao": "2026-09-12T09:24:04.781Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "79",
+  "categoriaId": "9"
+ },
+ {
+  "nome": "Refined Steel Fish",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Movies",
+  "ultimaAtualizacao": "1992-09-05T23:57:04.576Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "80",
+  "categoriaId": "10"
+ },
+ {
+  "nome": "Incredible Fresh Towels",
+  "descricao": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Electronics",
+  "ultimaAtualizacao": "2032-10-07T00:44:25.876Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "81",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Rustic Cotton Shoes",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Automotive",
+  "ultimaAtualizacao": "2098-03-07T22:47:50.285Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "82",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Rustic Cotton Chicken",
+  "descricao": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Garden",
+  "ultimaAtualizacao": "1995-07-22T00:39:29.735Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "83",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Licensed Granite Salad",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Books",
+  "ultimaAtualizacao": "2015-10-20T13:29:48.759Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "84",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Generic Soft Gloves",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Industrial",
+  "ultimaAtualizacao": "2056-06-04T16:14:29.253Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "85",
+  "categoriaId": "5"
+ },
+ {
+  "nome": "Handcrafted Soft Car",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Movies",
+  "ultimaAtualizacao": "2009-12-20T12:13:50.785Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "86",
+  "categoriaId": "6"
+ },
+ {
+  "nome": "Refined Frozen Car",
+  "descricao": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Games",
+  "ultimaAtualizacao": "2069-08-20T04:25:41.496Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "87",
+  "categoriaId": "7"
+ },
+ {
+  "nome": "Gorgeous Concrete Sausages",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Automotive",
+  "ultimaAtualizacao": "2004-06-14T02:31:52.989Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "88",
+  "categoriaId": "8"
+ },
+ {
+  "nome": "Refined Metal Keyboard",
+  "descricao": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Beauty",
+  "ultimaAtualizacao": "2002-09-16T09:05:03.625Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "89",
+  "categoriaId": "9"
+ },
+ {
+  "nome": "Practical Fresh Cheese",
+  "descricao": "The Football Is Good For Training And Recreational Purposes",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Automotive",
+  "ultimaAtualizacao": "2042-09-03T18:28:12.452Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "90",
+  "categoriaId": "1"
+ },
+ {
+  "nome": "Generic Fresh Pizza",
+  "descricao": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Music",
+  "ultimaAtualizacao": "2001-02-05T01:22:05.480Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "91",
+  "categoriaId": "2"
+ },
+ {
+  "nome": "Handcrafted Fresh Keyboard",
+  "descricao": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Home",
+  "ultimaAtualizacao": "2046-01-14T15:15:23.546Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "92",
+  "categoriaId": "3"
+ },
+ {
+  "nome": "Fantastic Rubber Gloves",
+  "descricao": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Health",
+  "ultimaAtualizacao": "2041-01-04T14:09:55.514Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "93",
+  "categoriaId": "4"
+ },
+ {
+  "nome": "Small Rubber Keyboard",
+  "descricao": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "tipo": "pdf",
+  "arquivo": "https://consorcio.rodobens.com.br/hubfs/guia-completo-do-consorcio.pdf",
+  "video": "https://www.youtube.com/watch?v=ugyOc0WzLzo",
+  "imagem": "https://placeimg.com/640/480/city",
+  "categoria": "Clothing",
+  "ultimaAtualizacao": "2089-01-05T13:56:19.715Z",
+  "classificacao": 5,
+  "tags": [
+   "Vendas",
+   "Automoveis",
+   "Materiais"
+  ],
+  "id": "94",
+  "categoriaId": "5"
+ }
+]
